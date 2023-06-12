@@ -1,5 +1,6 @@
 ### Credits
 https://github.com/goldenratio1618/Watts-Strogatz-Model
+<br>
 https://github.com/benmaier/smallworld
 
 # Watts-Strogatz Model
